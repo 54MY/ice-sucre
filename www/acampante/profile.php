@@ -201,12 +201,12 @@
                                 <label class="col-md-2 control-label" for="Cronograma">Cronograma</label>
                                 <div class="col-md-8">
                                     <div class="input-group">
-                                        <a download="cronograma-2021-pdvb.jpg" href="../img/sucre/cronograma.jpeg"
+                                        <a download="cronograma-2021-ice.jpg" href="../img/sucre/cronograma_1.jpeg"
                                             class="btn btn-default btn-sm">Descargar cronograma</a>
                                     </div>
                                     </br>
                                     <div class="input-group">
-                                        <img src="../img/sucre/cronograma.jpeg" alt="" width="300" height="200">
+                                        <img src="../img/sucre/cronograma_1.jpeg" alt="" width="300" height="200">
                                     </div>
                                 </div>
                             </div>

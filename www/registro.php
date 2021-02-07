@@ -152,7 +152,7 @@
             $contrasena =  sha1($contrasena);
 
             $sql = "INSERT INTO Acampante (Correo, Nombres, Apellidos, Edad, Sexo, Codigo_Pais, Celular, Pais, Ciudad, Taller, Usuario, Contrasena)
-                    VALUES ('$correo','$nombres','$apellidos',$edad,'$sexo','$cod_pais',$celular,'$pais','$ciudad','Taller dia 1; Taller dia 2; Taller dia 3','$usuario','$contrasena')";
+                    VALUES ('$correo','$nombres','$apellidos',$edad,'$sexo','$cod_pais',$celular,'$pais','$ciudad','Taller del Mate; Taller Dulce; Taller del Café; Taller de Compartir','$usuario','$contrasena')";
 
             $retval = mysqli_query($con,$sql);
             if($retval) {
@@ -177,13 +177,13 @@
                 <div class="form-group">
                     <label class="col-md-4" for="Correo electronico">Varones</label>
                     <div class="col-md-8">
-                        <a href="https://www.google.com" target="_blank">whatsApp</a>
+                        <a href="https://chat.whatsapp.com/J1d4C2WMrAeDygZrsAKDDk" target="_blank">whatsApp</a>
                     </div>
                 </div>
                 <div class="form-group">
                     <label class="col-md-4" for="Correo electronico">Mujeres</label>
                     <div class="col-md-8">
-                        <a href="https://www.google.com" target="_blank">whatsApp</a>
+                        <a href="https://chat.whatsapp.com/BYRnEhyk3X00twuyQFOrmO" target="_blank">whatsApp</a>
                     </div>
                 </div>
             </div>
@@ -230,7 +230,7 @@
                                         onclick="calculateAge()">
                                         <option selected>Que edad tienes?</option>
                                         <?php
-                                            for ($i = 12; $i <= 35; $i++) {
+                                            for ($i = 18; $i <= 35; $i++) {
                                                 echo '<option value="' . $i . '">' . $i . '</option>';
                                             }
                                         ?>

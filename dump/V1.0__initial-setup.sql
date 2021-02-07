@@ -30,7 +30,7 @@ CREATE TABLE icesucre.Acampante (
 	Edad INT NOT NULL,
 	Sexo varchar(10) NOT NULL,
 	Codigo_Pais varchar(10) NOT NULL,
-	Celular INT NOT NULL,
+	Celular BIGINT NOT NULL,
 	Pais varchar(100) NOT NULL,
 	Ciudad varchar(100) NOT NULL,
 	Color varchar(100),
