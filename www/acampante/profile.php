@@ -238,7 +238,7 @@
                                 <label class="col-md-2 control-label" for="Aplicacion">Aplicación</label>
                                 <div class="col-md-8">
                                     <div class="input-group">
-                                        <a download="HORA_SILENCIOSapk" href="../vendor/apk/HORA_SILENCIOSapk"
+                                        <a download="HS.apk" href="../apk/HS.apk"
                                             class="btn btn-default btn-sm">Descargar aplicación</a>
                                     </div>
                                 </div>
