@@ -110,7 +110,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 order-lg-2">
                     <div class="p-5">
-                        <img class="img-fluid rounded-circle" src="img/predicadores/predicador_1.jpeg" alt="">
+                        <img class="img-fluid rounded-circle" src="img/sucre/predicadores/predicador_1.jpeg" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6 order-lg-1">
@@ -125,7 +125,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="p-5">
-                        <img class="img-fluid rounded-circle" src="img/predicadores/predicador_2.png" alt="">
+                        <img class="img-fluid rounded-circle" src="img/sucre/predicadores/predicador_2.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -140,7 +140,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 order-lg-2">
                     <div class="p-5">
-                        <img class="img-fluid rounded-circle" src="img/predicadores/predicador_3.png" alt="">
+                        <img class="img-fluid rounded-circle" src="img/sucre/predicadores/predicador_3.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6 order-lg-1">
@@ -155,7 +155,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="p-5">
-                        <img class="img-fluid rounded-circle" src="img/predicadores/predicador_4.png" alt="">
+                        <img class="img-fluid rounded-circle" src="img/sucre/predicadores/predicador_4.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -170,7 +170,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 order-lg-2">
                     <div class="p-5">
-                        <img class="img-fluid rounded-circle" src="img/predicadores/predicador_5.png" alt="">
+                        <img class="img-fluid rounded-circle" src="img/sucre/predicadores/predicador_5.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6 order-lg-1">
@@ -188,7 +188,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="p-5">
-                        <img class="img-fluid rounded-circle" src="img/predicadores/taller_1.png" alt="">
+                        <img class="img-fluid rounded-circle" src="img/sucre/predicadores/taller_1.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -203,7 +203,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 order-lg-2">
                     <div class="p-5">
-                        <img class="img-fluid rounded-circle" src="img/predicadores/taller_3.png" alt="">
+                        <img class="img-fluid rounded-circle" src="img/sucre/predicadores/taller_3.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6 order-lg-1">
