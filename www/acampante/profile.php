@@ -238,7 +238,7 @@
                                 <label class="col-md-2 control-label" for="Aplicacion">Aplicación</label>
                                 <div class="col-md-8">
                                     <div class="input-group">
-                                        <a download="HS.apk" href="../apk/HS.apk"
+                                        <a download="HS_1.apk" href="../apk/HS_1.apk"
                                             class="btn btn-default btn-sm">Descargar aplicación</a>
                                     </div>
                                 </div>
