@@ -89,8 +89,11 @@
             <div class="container">
                 <img src="img/sucre/logo_camp.png" class="img-fluid" alt="">
                 <h2 class="masthead-subheading mb-0">No Te Lo Puedes Perder !!!</h2>
-                <a href="registro.php" class="btn btn-xl rounded-pill mt-5"
-                    style="color: #fff; background-color: #ffc107; border-color: #ffc107;">Registrate ahora!</a>
+                <a href="#" class="btn btn-xl rounded-pill mt-5" role="button" data-toggle="modal"
+                    data-target="#ingresar"
+                    style="color: #fff; background-color: #ffc107; border-color: #ffc107;">Ingresar</a>
+                <!-- <a href="registro.php" class="btn btn-xl rounded-pill mt-5"
+                    style="color: #fff; background-color: #ffc107; border-color: #ffc107;">Registrate ahora!</a> -->
             </div>
         </div>
         <div class="bg-circle-1 bg-circle"></div>
