@@ -131,6 +131,15 @@
                 case 'VENEZUELA':
                     $cod_pais = '+58';
                     break;
+                case 'GUATEMALA':
+                    $cod_pais = '+502';
+                    break;
+                case 'HONDURAS':
+                    $cod_pais = '+504';
+                    break;
+                case 'NICARAGUA':
+                    $cod_pais = '+505';
+                    break;
                 default:
                     $cod_pais = '000';
                     break;
@@ -274,6 +283,9 @@
                                         <option value="URUGUAY">Uruguay</option>
                                         <option value="PANAMA">Panama</option>
                                         <option value="VENEZUELA">Venezuela</option>
+                                        <option value="GUATEMALA">Guatemala</option>
+                                        <option value="HONDURAS">Honduras</option>
+                                        <option value="NICARAGUA">Nicaragua</option>
                                     </select>
                                 </div>
                             </div>
@@ -439,6 +451,15 @@
                 break;
             case 'VENEZUELA':
                 $('.code').val('+58');
+                break;
+            case 'GUATEMALA':
+                $('.code').val('+502');
+                break;
+            case 'HONDURAS':
+                $('.code').val('+504');
+                break;
+            case 'NICARAGUA':
+                $('.code').val('+505');
                 break;
             default:
                 $('.code').val('000');
