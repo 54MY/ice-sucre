@@ -161,7 +161,7 @@
             $contrasena =  sha1($contrasena);
 
             $sql = "INSERT INTO Acampante (Correo, Nombres, Apellidos, Edad, Sexo, Codigo_Pais, Celular, Pais, Ciudad, Taller, Usuario, Contrasena)
-                    VALUES ('$correo','$nombres','$apellidos',$edad,'$sexo','$cod_pais',$celular,'$pais','$ciudad','Taller del Mate; Taller Dulce; Taller del Café; Taller de Compartir','$usuario','$contrasena')";
+                    VALUES ('$correo','$nombres','$apellidos',$edad,'$sexo','$cod_pais',$celular,'$pais','$ciudad','Conductas autodestructivas, Noviazgo, Pureza sexual, El llamado de servir en la obra de Dios','$usuario','$contrasena')";
 
             $retval = mysqli_query($con,$sql);
             if($retval) {
