@@ -1,10 +1,9 @@
-<p align="center"><img width="200" src="www/img/sucre/logo_camp.png" alt="Campamento Tu decides logo"></p>
-<h1 align="center">Iglesia ICE</h1>
+<p align="center"><img width="300" src="www/img/sucre/logo_iglesia.png" alt="Campamento Tu decides logo"></p>
 <p align="center">"Alcanzando a la juventud con el evangelio de Jesucristo"</p>
 
 ### Campamento Virtual Tu Decides
 
-<p align="center"><img width="300" src="www/img/sucre/logo_iglesia.png" alt="Campamento Streaming logo"></p>
+<p align="center"><img width="200" src="www/img/sucre/logo_camp.png" alt="Campamento Streaming logo"></p>
 
 ### Proceso de instalacion
 

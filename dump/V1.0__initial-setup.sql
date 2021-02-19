@@ -8,7 +8,7 @@ SET time_zone = "America/La_Paz";
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
 /*!40101 SET NAMES utf8mb4 */;
 
-
+/*Create Table Director*/
 CREATE TABLE icesucre.Director (
   id int(11) NOT NULL,
   user varchar(20) NOT NULL,

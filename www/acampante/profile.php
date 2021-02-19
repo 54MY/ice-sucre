@@ -24,7 +24,7 @@
     }
 ?>
 <!DOCTYPE HTML>
-<html lang="en">
+<html lang="es">
 
 <head>
     <title>Acampante</title>

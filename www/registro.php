@@ -168,8 +168,8 @@
                 $mensaje = 'Ahora puedes iniciar session en tu perfil';
                 popUpSuccess('Registrado con exito', $mensaje);
             } else if(! $retval ) {
-                $mensaje = 'Nose pudo registrar ';
-                popUpWarning($mensaje);
+                $mensaje = 'Nose pudo registrar, contacte al administrador';
+                popUpEnd('Error en sistema', $mensaje);
                die('Could not enter data: ' . mysqli_error());
             }*/
 
